@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">
-  Welcome to SafeElect. A Voting system powered by blockchain technology that will enable more secure and trustable elections in the Future. 
+  Welcome to SafeElect 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
+<h3 align="center"> A Voting system powered by blockchain technology that will enable more secure and trustable elections in the Future. </h3>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?center=true&width=380&color=008080&lines=%20A+Project+by+Team+Tabs+%3E+Spaces;CTIS+Bilkent;">
